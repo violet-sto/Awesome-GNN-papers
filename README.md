@@ -1,9 +1,15 @@
 # Awesome-GNN-papers
 
 ## Content
+[Basic Models](#basic-models)
+
 [Node Classification](#node-classification)
 
 [Graph Classification](#graph-classification)
+
+[Link Prediction](#link-prediction)
+
+[Application](#application)
 
 ## Basic Models
 
