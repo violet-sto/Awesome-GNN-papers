@@ -19,6 +19,7 @@
 - [Neural Message Passing for Quantum Chemistry](http://proceedings.mlr.press/v70/gilmer17a.html). ICML 2017.
 - [Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216). NeurIPS 2017.
 - [Graph Attention Networks](https://arxiv.org/abs/1710.10903). ICLR 2018.
+- [Predict then propagate: Graph neural networks meet personalized pagerank](https://arxiv.org/abs/1810.05997). ICLR 2019.
 - [Simplifying Graph Convolutional Networks](http://proceedings.mlr.press/v97/wu19e.html). ICML 2019.
 ### Expressivity
 - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826). ICLR 2019.
