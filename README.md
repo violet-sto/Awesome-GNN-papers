@@ -14,6 +14,13 @@
 [Application](#application)
 
 ## Basic Models
+- [Convolutional neural networks on graphs with fast localized spectral filtering](https://arxiv.org/abs/1606.09375). NeurIPS 2016.
+- [Semi-supervised classification with graph convolutional networks](https://arxiv.org/abs/1609.02907). ICLR 2017.
+- [Neural Message Passing for Quantum Chemistry](http://proceedings.mlr.press/v70/gilmer17a.html). ICML 2017.
+- [Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216). NeurIPS 2017.
+- [Graph Attention Networks](https://arxiv.org/abs/1710.10903). ICLR 2018.
+- [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826). ICLR 2019.
+- [Simplifying Graph Convolutional Networks](http://proceedings.mlr.press/v97/wu19e.html). ICML 2019.
 
 ## Node Prediction
 
@@ -26,6 +33,7 @@
 ## Link Prediction
 
 ## Subgraph Prediction
+- [Subgraph neural networks](https://arxiv.org/abs/2006.10538). NeurIPS 2020.
 
 ## Application
 ### Molecule
