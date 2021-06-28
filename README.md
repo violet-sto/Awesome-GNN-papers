@@ -40,3 +40,6 @@
 
 ## Application
 ### Molecule
+
+### Miscellaneous
+- [Handling missing data with graph representation learning](https://arxiv.org/abs/2010.16418). NeurIPS 2020.
