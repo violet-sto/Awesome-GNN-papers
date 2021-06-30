@@ -34,6 +34,7 @@
 - [Self-Attention Graph Pooling](http://proceedings.mlr.press/v97/lee19c.html). ICML 2019.
 
 ## Link Prediction
+- [Link Prediction Based on Graph Neural Networks](https://proceedings.neurips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf). NeurIPS 2018.
 
 ## Subgraph Prediction
 - [Subgraph neural networks](https://arxiv.org/abs/2006.10538). NeurIPS 2020.
