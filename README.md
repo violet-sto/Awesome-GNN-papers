@@ -28,6 +28,10 @@
 - [Position-aware graph neural networks](http://proceedings.mlr.press/v97/you19b.html). ICML 2019.
 
 ## Node Prediction
+- [Representation learning on graphs with jumping knowledge networks](http://proceedings.mlr.press/v80/xu18c.html). ICML 2018.
+- [Predict then propagate: Graph neural networks meet personalized pagerank](https://arxiv.org/abs/1810.05997). ICLR 2019.
+- [Simplifying Graph Convolutional Networks](http://proceedings.mlr.press/v97/wu19e.html). ICML 2019.
+- [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://arxiv.org/abs/1908.05081). ICLR 2021.
 
 ## Graph Prediction
 ### Pooling
