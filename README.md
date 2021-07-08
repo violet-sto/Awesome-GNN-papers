@@ -11,7 +11,7 @@
 
 [Subgraph Prediction](#5.subgraph-prediction)
 
-[Graph Generation](#6.graph-generation)
+[Graph Generation](#graph-generation)
 
 [Application](#7.application)
 
@@ -52,7 +52,7 @@
 ## 5.Subgraph Prediction
 - [Subgraph neural networks](https://arxiv.org/abs/2006.10538). NeurIPS 2020.
 
-## 6.Graph Generation
+## Graph Generation
 - [GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models](http://proceedings.mlr.press/v80/you18a.html). ICML 2018.
 - [GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders](https://link.springer.com/chapter/10.1007/978-3-030-01418-6_41). ICANN 2018.
 
