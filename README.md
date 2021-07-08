@@ -33,11 +33,18 @@
 - [Simplifying Graph Convolutional Networks](http://proceedings.mlr.press/v97/wu19e.html). ICML 2019.
 - [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://arxiv.org/abs/1908.05081). ICLR 2021.
 
+### Pre-training
+- [Deep graph infomax](https://arxiv.org/abs/1809.10341). ICLR 2019.
+
 ## Graph Prediction
 ### Pooling
 - [Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/abs/1806.08804). NeurIPS 2018.
 - [Graph U-Nets](http://proceedings.mlr.press/v97/gao19a.html). ICML 2019.
 - [Self-Attention Graph Pooling](http://proceedings.mlr.press/v97/lee19c.html). ICML 2019.
+
+### Pre-training
+- [Strategies for pre-training graph neural networks](https://arxiv.org/abs/1905.12265). ICLR 2020.
+- [Infograph: Unsupervised and semi-supervised graph-level representation learning via mutual information maximization](https://arxiv.org/abs/1908.01000). ICLR 2020.
 
 ## Link Prediction
 - [Link Prediction Based on Graph Neural Networks](https://proceedings.neurips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf). NeurIPS 2018.
