@@ -1,7 +1,7 @@
 # Awesome-GNN-papers
 
 ## Content
-[Basic Models](#1.basic-models)
+[Basic Models](#1-basic-models)
 
 [Node Prediction](#2.node-prediction)
 
@@ -11,11 +11,11 @@
 
 [Subgraph Prediction](#5.subgraph-prediction)
 
-[Graph Generation](#graph-generation)
+[Graph Generation](#6.graph-generation)
 
 [Application](#7.application)
 
-## 1.Basic Models
+## 1 Basic Models
 - [Convolutional neural networks on graphs with fast localized spectral filtering](https://arxiv.org/abs/1606.09375). NeurIPS 2016.
 - [Semi-supervised classification with graph convolutional networks](https://arxiv.org/abs/1609.02907). ICLR 2017.
 - [Neural Message Passing for Quantum Chemistry](http://proceedings.mlr.press/v70/gilmer17a.html). ICML 2017.
