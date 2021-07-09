@@ -26,6 +26,7 @@
 ### Expressivity
 - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826) ICLR 2019.
 - [Position-aware graph neural networks](http://proceedings.mlr.press/v97/you19b.html). ICML 2019.
+- [On the Bottleneck of Graph Neural Networks and its Practical Implications](https://arxiv.org/abs/2006.05205). ICLR 2021.
 
 ## 2. Node Prediction
 - [Representation learning on graphs with jumping knowledge networks](http://proceedings.mlr.press/v80/xu18c.html). ICML 2018.
