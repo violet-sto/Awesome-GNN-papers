@@ -59,7 +59,7 @@
 
 ## 7. Application
 ### Computer vision
-#### Multi-label image recognition
+#### Multi-label Image Recognition
 - [Multi-Label Image Recognition with Graph Convolutional Networks](https://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Multi-Label_Image_Recognition_With_Graph_Convolutional_Networks_CVPR_2019_paper.html). CVPR 2019.
 - [Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition](https://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Learning_Semantic-Specific_Graph_Representation_for_Multi-Label_Image_Recognition_ICCV_2019_paper.html). ICCV 2019.
 
