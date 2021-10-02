@@ -58,6 +58,7 @@
 ## 6. Graph Generation
 - [GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models](http://proceedings.mlr.press/v80/you18a.html). ICML 2018.
 - [GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders](https://link.springer.com/chapter/10.1007/978-3-030-01418-6_41). ICANN 2018.
+- [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://arxiv.org/abs/2001.09382). ICLR 2020.
 
 ## 7. Application
 ### Computer vision
